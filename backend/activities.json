@@ -1,0 +1,14 @@
+{
+"activities": [
+{"name": "Museu de les Arts Escèniques", "address": "Museu de les Arts Escèniques, Carrer de la França Xica, 08004 Barcelona, Spain", "categories" : ["entertainment", "entertainment.museum", "internet_access", "wheelchair", "wheelchair.yes"]},
+{"name": "Palau de la Música Catalana", "address": "Palau de la Música Catalana, Carrer de Verdaguer i Callís, 08003 Barcelona, Spain", "categories" : ["entertainment", "entertainment.culture", "entertainment.culture.theatre", "heritage", "heritage.unesco", "internet_access", "internet_access.free", "tourism", "tourism.attraction", "wheelchair", "wheelchair.yes"]},
+{"name": "CaixaForum Barcelona", "address": "CaixaForum Barcelona, Avinguda de Francesc Ferrer i Guàrdia, 08015 Barcelona, Spain", "categories" : ["building", "building.tourism", "entertainment", "entertainment.museum", "fee", "internet_access", "internet_access.free", "wheelchair", "wheelchair.limited"]},
+{"name": "Museu Marítim", "address": "Museu Marítim, Avinguda de les Drassanes, 08001 Barcelona, Spain", "categories" : ["building", "building.tourism", "entertainment", "entertainment.museum", "wheelchair", "wheelchair.yes"]},
+{"name": "Fundació Joan Miró", "address": "Fundació Joan Miró, Avinguda de Miramar, 08038 Barcelona, Spain", "categories" : ["building", "building.tourism", "entertainment", "entertainment.museum", "fee", "wheelchair", "wheelchair.yes"]},
+{"name": "Centre de Cultura Contemporània de Barcelona", "address": "Centre de Cultura Contemporània de Barcelona, Carrer de Montalegre, 5, 08001 Barcelona, Spain", "categories" : ["building", "building.public_and_civil", "building.tourism", "entertainment", "entertainment.museum", "fee"]},
+{"name": "Cosmocaixa", "address": "Cosmocaixa, Ronda de Dalt, 08022 Barcelona, Spain", "categories" : ["entertainment", "entertainment.museum", "fee", "wheelchair", "wheelchair.yes"]},
+{"name": "Museu d'Art Contemporani de Barcelona", "address": 'Barcelona Museum of Contemporary Art, 1, 08001 Barcelona, Spain', "categories" : ["building", "building.public_and_civil", "building.tourism", "entertainment", "entertainment.museum", "fee", "internet_access", "internet_access.for_customers", "wheelchair", "wheelchair.yes"]},
+{"name": "Museu d'Història de la Ciutat", "address": "Museu d'Història de la Ciutat, Carrer del Veguer, 4, 08002 Barcelona, Spain", "categories" : ["entertainment", "entertainment.museum", "fee", "wheelchair", "wheelchair.yes"]},
+{"name": "Camp Nou Experience", "address": "Camp Nou Experience, Carrer d'Arístides Maillol, 12, 08028 Barcelona, Spain", "categories" : ["entertainment", "entertainment.museum", "fee", "wheelchair", "wheelchair.yes"]}
+]
+}

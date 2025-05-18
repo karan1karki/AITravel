@@ -1,0 +1,22 @@
+{
+    "restaurants": [
+        {
+            "name": "7 Portes",
+            "address": "7 Portes, Passeig d'Isabel II, 14, 08003 Barcelona, Spain",
+            "website": "https://7portes.com/catala/index2.php",
+            "phone": "+34 933 19 30 33"
+        },
+        {
+            "name": "Fábrica Moritz Barcelona",
+            "address": 'Fábrica Moritz Barcelona, Ronda de Sant Antoni, 41, 08011 Barcelona, Spain',
+            "website": "http://www.moritz.cat",
+            "phone": "+34 934260050"
+        },
+        {
+            "name": "Disfrutar",
+            "address": 'Disfrutar, Carrer de Villarroel, 163, 08001 Barcelona, Spain',
+            "website": "https://www.disfrutarbarcelona.com/",
+            "phone": "+34 93 48 68 96"
+        }
+    ]
+}

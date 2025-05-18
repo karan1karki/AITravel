@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["YASSINEKS007 <yassinekh007007@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<=3.13"
+django = "^5.1.1"
+python-dotenv = "^1.0.1"
+djangorestframework = "^3.15.2"
+djangorestframework-simplejwt = {extras = ["crypto"], version = "^5.3.1"}
+django-cors-headers = "^4.4.0"
+psycopg2-binary = "^2.9.9"
+pillow = "^10.4.0"
+crewai = "^0.63.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
