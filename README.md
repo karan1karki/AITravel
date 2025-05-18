@@ -37,7 +37,7 @@ Whether you’re dreaming of a tropical getaway, an enriching cultural explorati
 
 - **Node.js** (version 20) and **npm** for frontend development
 - **Python** (version 3.12) for backend development
-- **PostgreSQL** (version 16.3) for database management
+- **MySQL** (version 16.3) for database management
 
 ### Setup
 
@@ -46,7 +46,7 @@ Whether you’re dreaming of a tropical getaway, an enriching cultural explorati
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YASSINEKS007/AI-Travel-Planner-Django-React.git
+   git clone https://github.com/karan1karki/AITravel.git
    ```
 
 2. Navigate to the frontend directory:
@@ -99,7 +99,7 @@ Make sure you have the following installed:
 
 1. **Configure Database Connection:**
 
-   - Edit the `.env` file to configure your PostgreSQL database connection settings.
+   - Edit the `.env` file to configure your MySQL database connection settings.
 
 2. **Run Database Migrations:**
    - Apply the migrations to set up the database schema:
@@ -144,11 +144,11 @@ Make sure you have the following installed:
   - `DJANGO_ALLOWED_HEADERS=`: Comma-separated list of allowed headers.
 
   - **Database Configuration:**
-    - `DB_NAME=`: Name of the PostgreSQL database.
-    - `DB_USER=`: Username for the PostgreSQL database.
-    - `DB_PASSWORD=`: Password for the PostgreSQL database.
-    - `DB_HOST=`: Host of the PostgreSQL database server.
-    - `DB_PORT=`: Port number for the PostgreSQL database server.
+    - `DB_NAME=`: Name of the MySQL database.
+    - `DB_USER=`: Username for the MySQL database.
+    - `DB_PASSWORD=`: Password for the MySQL database.
+    - `DB_HOST=`: Host of the PostgreSQL database Myver.
+    - `DB_PORT=`: Port number for the MySQL database serverMy
 
 - API Keys
 
@@ -254,4 +254,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact [yassinekh007007@gmail.com].
+For any questions or issues, please contact [karankarki199@gmail.com].
